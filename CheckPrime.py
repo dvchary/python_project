@@ -1,6 +1,6 @@
 # Program to check if a number is prime or not
 
-num = int(input("Please Enter a Number between 1 to 100: "));
+num = int(input("Please Enter a Number between 1 to 50: "));
 
 # Prime Numbers are greater than 1
 
