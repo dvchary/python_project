@@ -4,6 +4,9 @@ num = int(input("Please Enter a Number between 1 to 50: "));
 
 # Prime Numbers are greater than 1
 
+if num > 50:
+	    num = int(input("Please Enter a Number between 1 to 50: "));
+		
 if num > 1:
 	#Check for factors
 	for i in range(2,num):
